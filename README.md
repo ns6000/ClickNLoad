@@ -7,7 +7,7 @@
 3) run: **clickNLoad '<key_chars>', '<encrypted_links_chars>'**
 4) ...profit?
 
-Example of text copy (all the text between pair of ###) to the command line parameters:
+Example of text to copy to the command line parameters (everything between the pair of ###):
 
 ```html
 ...
